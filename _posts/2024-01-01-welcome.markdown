@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome"
+categories: general
+---
+Welcome to my project site!
+
+A little about me
+I'm Sandra...
+
+Background and interests

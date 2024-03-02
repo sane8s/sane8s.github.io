@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "atom2taro"
+categories: source
+---
+XML Stylesheet to takes XML EAD 2002 export from Access to Memory (AtoM) platform and adapts it to the XML Template to import into Texas Archival Resources Online (TARO)
+
+[https://github.com/sane8s/atom2taro](https://github.com/sane8s/atom2taro)

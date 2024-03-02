@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Basic App"
+categories: source
+---
+Here's a basic app to get you started on your app site based on mysql and php.
+[https://github.com/sane8s/basicapp](https://github.com/sane8s/basicapp)
