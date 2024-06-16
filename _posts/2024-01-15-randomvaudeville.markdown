@@ -5,4 +5,4 @@ categories: appsite
 ---
 Get random vaudeville jokes and skits.
 
-[https://saneyates.org/vaudeville](https://saneyates.org/vaudeville)
+[https://saneyates.org/randomvaudeville](https://saneyates.org/randomvaudeville)
