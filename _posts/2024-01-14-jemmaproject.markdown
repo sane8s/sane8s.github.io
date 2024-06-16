@@ -5,4 +5,4 @@ categories: appsite
 ---
 Explore the jemmaproject words and songs.
 
-[https://jemmaproject.org](https://jemmaproject.org)
+[https://saneyates.org/jemmaproject](https://saneyates.org/jemmaproject)
