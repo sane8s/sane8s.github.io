@@ -1,6 +1,6 @@
-#Visit Site
-https://saneyates.org
-Hottps://sane8s.github.io
+# Visit Site
+* https://saneyates.org
+* Https://sane8s.github.io
 
 # Chirpy Starter
 
