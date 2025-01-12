@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-01-14-jemmaproject.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-01-14-jemmaproject.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-01-15-randomvaudeville.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-01-15-randomvaudeville.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-02-21-somepostersapp.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-02-21-somepostersapp.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-03-01-basicapp.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2024-03-01-basicapp.markdown||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2024-03-01-basicapp.markdown",
+              "DocumentMoniker": "C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-03-01-basicapp.markdown",
+              "RelativeDocumentMoniker": "_posts\\2024-03-01-basicapp.markdown",
+              "ToolTip": "C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-03-01-basicapp.markdown",
+              "RelativeToolTip": "_posts\\2024-03-01-basicapp.markdown",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T17:04:38.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "2024-02-21-somepostersapp.markdown",
+              "DocumentMoniker": "C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-02-21-somepostersapp.markdown",
+              "RelativeDocumentMoniker": "_posts\\2024-02-21-somepostersapp.markdown",
+              "ToolTip": "C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-02-21-somepostersapp.markdown",
+              "RelativeToolTip": "_posts\\2024-02-21-somepostersapp.markdown",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T17:04:27.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2024-01-15-randomvaudeville.markdown",
+              "DocumentMoniker": "C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-01-15-randomvaudeville.markdown",
+              "RelativeDocumentMoniker": "_posts\\2024-01-15-randomvaudeville.markdown",
+              "ToolTip": "C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-01-15-randomvaudeville.markdown",
+              "RelativeToolTip": "_posts\\2024-01-15-randomvaudeville.markdown",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T17:03:58.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2024-01-14-jemmaproject.markdown",
+              "DocumentMoniker": "C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-01-14-jemmaproject.markdown",
+              "RelativeDocumentMoniker": "_posts\\2024-01-14-jemmaproject.markdown",
+              "ToolTip": "C:\\Users\\saney\\source\\repos\\sane8s\\sane8s.github.io\\_posts\\2024-01-14-jemmaproject.markdown",
+              "RelativeToolTip": "_posts\\2024-01-14-jemmaproject.markdown",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T17:02:47.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
